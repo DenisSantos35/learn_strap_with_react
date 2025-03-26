@@ -59,3 +59,7 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+# popuar dados
+
+- url fica => http://localhost:1337/api/pages/?populate[menu][populate]=*&populate[sections][populate]=*
